@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="news_item_layout_padding">16dp</dimen>
+    <dimen name="news_heading_text_size">22sp</dimen>
+    <dimen name="news_category_size">20sp</dimen>
+    <dimen name="news_author_size">16sp</dimen>
+    <dimen name="marginal_padding">2dp</dimen>
+</resources>
